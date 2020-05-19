@@ -1,0 +1,3 @@
+C:\Users\PREDATOR\source\repos\basicCalculator\basicCalculator\obj\Debug\basicCalculator.njsprojAssemblyReference.cache
+C:\Users\PREDATOR\source\repos\basicCalculator\basicCalculator\obj\Debug\basicCalculator.njsproj.CoreCompileInputs.cache
+C:\Users\PREDATOR\source\repos\basicCalculator\basicCalculator\bin\Microsoft.NodejsTools.WebRole.dll
