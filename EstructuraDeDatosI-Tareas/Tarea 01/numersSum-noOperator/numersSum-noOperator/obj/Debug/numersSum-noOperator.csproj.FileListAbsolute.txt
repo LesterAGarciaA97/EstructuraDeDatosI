@@ -1,0 +1,7 @@
+D:\Documentos\Universidad Rafael Landívar\15. Segundo ciclo 2019\Estructura de datos I\Tareas\Tarea 01\numersSum-noOperator\numersSum-noOperator\bin\Debug\numersSum-noOperator.exe.config
+D:\Documentos\Universidad Rafael Landívar\15. Segundo ciclo 2019\Estructura de datos I\Tareas\Tarea 01\numersSum-noOperator\numersSum-noOperator\bin\Debug\numersSum-noOperator.exe
+D:\Documentos\Universidad Rafael Landívar\15. Segundo ciclo 2019\Estructura de datos I\Tareas\Tarea 01\numersSum-noOperator\numersSum-noOperator\bin\Debug\numersSum-noOperator.pdb
+D:\Documentos\Universidad Rafael Landívar\15. Segundo ciclo 2019\Estructura de datos I\Tareas\Tarea 01\numersSum-noOperator\numersSum-noOperator\obj\Debug\numersSum-noOperator.csprojAssemblyReference.cache
+D:\Documentos\Universidad Rafael Landívar\15. Segundo ciclo 2019\Estructura de datos I\Tareas\Tarea 01\numersSum-noOperator\numersSum-noOperator\obj\Debug\numersSum-noOperator.csproj.CoreCompileInputs.cache
+D:\Documentos\Universidad Rafael Landívar\15. Segundo ciclo 2019\Estructura de datos I\Tareas\Tarea 01\numersSum-noOperator\numersSum-noOperator\obj\Debug\numersSum-noOperator.exe
+D:\Documentos\Universidad Rafael Landívar\15. Segundo ciclo 2019\Estructura de datos I\Tareas\Tarea 01\numersSum-noOperator\numersSum-noOperator\obj\Debug\numersSum-noOperator.pdb
